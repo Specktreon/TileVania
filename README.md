@@ -18,7 +18,7 @@ TileVania is a 2D platformer game built in Unity, originally created by followin
 
 🎮 Enhanced Gameplay – Smoother animations, better feedback, and improved difficulty balancing.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Engine: Unity (2D)
 
