@@ -2,7 +2,7 @@
 
 TileVania is a 2D platformer game built in Unity, originally created by following the GameDev.tv course and then heavily expanded with custom content. Players jump, fight, and explore while avoiding hazards, defeating enemies, and using checkpoints to progress through challenging levels.
 
-🚀 Features
+# 🚀 Features
 
 🎨 Custom Assets & Tilemaps – Added new tilemaps, improved visuals, and animated sprites.
 
@@ -28,7 +28,7 @@ Course Base: GameDev.tv 2D Game Development course
 
 Custom Additions: Levels, checkpoints, sounds, new enemies, new traps, tilemaps, animations
 
-📂 Repository Structure
+# 📂 Repository Structure
  TileVania/
 ├── Assets/          # Game assets (sprites, audio, animations, prefabs, etc.)
 ├── Scripts/         # C# scripts for player, enemies, checkpoints, hazards
@@ -36,7 +36,7 @@ Custom Additions: Levels, checkpoints, sounds, new enemies, new traps, tilemaps,
 ├── ProjectSettings/ # Unity project settings
 └── README.md        # Project documentation
 
-🎯 How to Play
+# 🎯 How to Play
 
 Clone or download this repository.
 
